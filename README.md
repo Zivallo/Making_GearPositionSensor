@@ -2,6 +2,7 @@
 ## 1. Topic
 VJF125엔진의 변속기 부분을 사용한 DE-20(Team DOS, 2019.9-2021.2) 프로젝트에서 기어포지션센서를 개조하여 N(중립), 3단만 확인가능한 기존의 센서를 N(중립)단 포함 모든 단수를 확인 가능하도록 함
 ![image](https://user-images.githubusercontent.com/79623246/215319870-a62739fe-3fee-472a-a3d4-b8b6e6b32373.png)
+> DE-20 
 ## 2. Making
 ### 1) 작동방식
 ![image](https://user-images.githubusercontent.com/79623246/215315139-a93ebd0b-535b-4688-9e20-0f8c5477d39d.png)
