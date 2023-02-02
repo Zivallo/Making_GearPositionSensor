@@ -7,13 +7,12 @@ VJF125엔진의 변속기 부분을 사용한 DE-20(Team DOS, 2019.9-2021.2) 프
 ### 1) 작동방식
 ![image](https://user-images.githubusercontent.com/79623246/215315139-a93ebd0b-535b-4688-9e20-0f8c5477d39d.png)
 - VJF125 구조상 변속할 시 변속기의 기어를 움직여주는 Camshaft가 회전하게 되고 이 움직임에 따라 센서의 축이 회전
+
 ![image](https://user-images.githubusercontent.com/79623246/216294677-52191d54-9126-491a-97a1-a798953d92e1.png)
 - 축이 회전하면서 센서 내부의 판 스프링이 함께 움직임
-- 판 스프링의 중심부는 GND와 항상 접촉, 스프링 끝부분은 회전에 따라 납땜부와 접촉하게 됨
+- 판 스프링의 중심부는 GND와 항상 접촉, 스프링 끝부분은 회전에 따라 납땜부(도체)와 접촉하게 됨
 - 이 위치에 따라 기어 단수 판별
 ### 2) 제작
-> 제작시 찍어놓은 사진이 별로 없어 글로만 설명하겠습니다.
-
 #### (1) 센서 중심부 절단 후 내용물 제거
 ![image](https://user-images.githubusercontent.com/79623246/215318505-500986b5-20af-42bf-b155-01ee5b14d1e3.png)
 ![image](https://user-images.githubusercontent.com/79623246/216294857-d275daa9-4f5d-4961-8e96-86e1e05eb956.png)
